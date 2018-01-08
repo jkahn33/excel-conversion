@@ -1,5 +1,5 @@
 # Excel Conversion
-### Java program to convert menus from allmenus.com to .xlsx files
+### Java program to convert menus from allmenus.com to Excel spreadsheets.
 
 ## To run:
 1. Download the zip file into your preferred IDE.
